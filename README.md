@@ -35,3 +35,8 @@ Here is a boilerplate example you can copy & paste.
 1. [Haize](https://github.com/Wollfhaize) -  Developer(So-called)
 
    - Mostly a self-taught web developer, also learning stuff from college.(trying to, at least)
+
+2. [Nadia](https://github.com/SardonicBeauty) - Developer?
+
+   - Just someone trying to create and learn new things,  because college didn't help.
+   
