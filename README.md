@@ -36,7 +36,7 @@ Here is a boilerplate example you can copy & paste.
 
    - Mostly a self-taught web developer, also learning stuff from college.(trying to, at least)
 
-2. 1. [Nadia](https://github.com/SardonicBeauty) -
+2. [Nadia](https://github.com/SardonicBeauty) -
 
    - Just someone trying to create and learn new things,  because college didn't help.
    
